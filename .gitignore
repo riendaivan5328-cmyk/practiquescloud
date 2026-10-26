@@ -1,3 +1,10 @@
+# AWS Credentials y configuraciones
+.aws/
+credentials
+
+# Terraform y ficheros temporales
 .terraform/
 *.tfstate
 *.tfstate.backup
+.tfstate*
+.terraform.lock.hcl
