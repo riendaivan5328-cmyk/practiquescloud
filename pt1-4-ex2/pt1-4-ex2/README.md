@@ -1,0 +1,1 @@
+Bueno lo que hacemos es sencillo, primero nos dirigimos a la vpc, creamos una vpc y luego dentro de esta creamos 3 subredes, verificando las ips con las del documento, luego dentro de cada subread creamos 2 maquinas ec2, tendremos 6 al final, verificamos que estén en sus subredes planificadas y de ahi estaria todo correcto
