@@ -19,15 +19,15 @@ En aquesta pràctica hem automatitzat el desplegament de la infraestructura bàs
 
 ### VPC i Mapa de Recursos
 
-![VPC i Subxarxes](/assets/recursos_tablas_subnets_vpc.png)
+![VPC i Subxarxes](/pt2-2/assets/recursos_tablas_subnets_vpc.png)
 
 ### Instàncies EC2
 
-![Instàncies EC2](/assets/ec2_instancias.png)
+![Instàncies EC2](/pt2-2/assets/ec2_instancias.png)
 
 ### Prova de connectivitat (SSH i Ping)
 
-![Prova SSH i Ping](/assets/ssh_ping.png)
+![Prova SSH i Ping](/pt2-2/assets/ssh_ping.png)
 
 
 ## Execució
